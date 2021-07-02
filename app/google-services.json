@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856128469601",
+    "project_id": "instag-d12d8",
+    "storage_bucket": "instag-d12d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856128469601:android:a08c0bd865ccac9f614820",
+        "android_client_info": {
+          "package_name": "com.hfad.instag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856128469601-efasa1u1lvktc3dk2tdlp6dlftuu1k0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKV2bRX6GvFlLGt0fXID_2tINEFCvXnDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856128469601-efasa1u1lvktc3dk2tdlp6dlftuu1k0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

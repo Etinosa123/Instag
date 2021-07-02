@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instag</string>
+    <string name="my_profile">My Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="username">Enter Your Name</string>
+    <string name="save">Save</string>
+    <string name="add_post">Add Post</string>
+    <string name="enter_caption_here">Enter Caption here...</string>
+</resources>
